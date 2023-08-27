@@ -1,0 +1,16 @@
+{
+  "name": "landingpagev2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^6.0.1",
+    "postcss": "^8.4.28",
+    "postcss-cli": "^10.1.0"
+  }
+}

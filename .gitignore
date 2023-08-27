@@ -4,3 +4,4 @@
 # Ignore build directories
 build/
 assets_ig/
+node_modules/
